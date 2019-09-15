@@ -1,5 +1,5 @@
 My Code: 
-# this is the second project for AMS 315  by Asad Imam
+# this is the second project for AMS 315 by Asad Imam
 # importing the data
 install.packages("rio")
 library(rio)
